@@ -11,7 +11,7 @@ It’s time to start talking…to web services! For this assignment, we’d like
 ## Background Reading
 The [official SwiftUI tutorials](https://developer.apple.com/tutorials/swiftui) continue to be of value for SwiftUI fundamentals, but it doesn’t include communication with web services. This [Hacking with Swift tutorial](https://www.hackingwithswift.com/books/ios-swiftui/cupcake-corner-introduction) walks you through a full app that _does_ have this aspect, so add this one to your library. As before, the broader [SwiftUI documentation site](https://developer.apple.com/documentation/swiftui/) should continue to provide more depth and specifics, in addition to the various help content that can be found in Xcode.
 
-Asynchronous programming is intrinsic to anything that involves networks, so you may want to focus on [Swift resources](https://developer.apple.com/swift/resources/) on that topic. The [Swift Language page on Concurrency](https://docs.swift.org/swift-book/LanguageGuide/Concurrency.html) may be of particular interest.
+Asynchronous programming is intrinsic to anything that involves networks, so you may want to focus on [Swift resources](https://developer.apple.com/swift/resources/) on that topic. The Swift Language page on [optional types](https://docs.swift.org/swift-book/LanguageGuide/TheBasics.html#ID330) (also [this one](https://developer.apple.com/documentation/swift/optional)) as well as on [Concurrency](https://docs.swift.org/swift-book/LanguageGuide/Concurrency.html) may be of particular interest.
 
 As we go deeper into more open-ended app design territory, the [iOS Human Interface Guidelines](https://developer.apple.com/design/human-interface-guidelines/ios/) will continue to serve as a valuable resource for design decisions as well as conventions and standards for iOS user interfaces.
 
@@ -49,6 +49,13 @@ Supply a simple _about.md_ Markdown file that describes your app briefly. Includ
 * Remember that there isn’t enough class time to cover absolutely everything that you might want to do! We hope that our class time so far has served to give you a good foundation for getting started, but definitely don’t let “this wasn’t mentioned in class” be a barrier when it comes to figuring things out
     * Get increasingly better at doing targeted searches on the web. Are you looking to implement a specific feature that isn’t in the APIdex nor shown in class? Look it up! Trade secret—much the APIdex was built by doing precisely that
     * Don’t hesitate to look directly at exact function signatures and type definitions in order to get a deeper understanding of the code you’re writing, especially code that you’re adapting (and crediting!) from other sources
+ * Note the timing! Now that you have done the first app, you have a clearer idea of how long it takes to put something like this together. _Schedule your work accordingly._ It’s fair to say that for this app, you will take roughly the same amount of time to code up the app itself, but now you also have to factor in:
+    1. The time it takes to choose and learn your API
+    2. The time it takes to write correct `struct` definitions for your API’s responses
+    3. The time it takes to implement network functions
+    4. Additional state/logic for showing progress feedback and handling errors
+
+    So make sure to plan accordingly! The due date may seem far away, but it’s scheduled there for a reason 🧐
 
 ### Initial setup: Unifying your GitHub and Xcode repositories
 This section is copied from the first assignment’s instructions, and remains relevant if you need to merge an Xcode-created _git_ repository and the GitHub Classroom assignment repo so it is reproduced here.
