@@ -22,7 +22,7 @@ You will be creating an interactive mobile app for fetching data from an API and
 
 Need some API ideas? API lists abound. Try [this one](https://mixedanalytics.com/blog/list-actually-free-open-no-auth-needed-apis/), [this one](https://apilist.fun/), [this one](https://public-apis.io/), or (especially) [this one](https://github.com/public-apis/public-apis).
 
-The [APIdex sample](https://classroom.github.com/a/Mgrk6VYJ) provides some ideas and code—hope you feel that APIdex feels incomplete, because it is! It is meant only to show you a range of approaches that many API-backed apps share. Your own app must definitely have more functionality than APIdex. Feel free to make use of any techniques learned in our class demonstrations and code-alongs.
+The [APIdex sample](https://classroom.github.com/a/Mgrk6VYJ) provides some ideas and code—hope you feel that APIdex feels incomplete, because it is! It is meant only to show you a range of approaches that many API-backed apps share. Your own app _must definitely have more functionality than APIdex_. Feel free to make use of any techniques learned in our class demonstrations and code-alongs.
 
 To ensure that this app is built according to best/recommended practices as well as show the knowledge you have gained about interacting with web service APIs, make sure to show (or continue to show) the following:
 * Use of model objects to separate data from presentation—now matched up to your chosen API’s data!
@@ -92,6 +92,7 @@ For this particular assignment, graded categories are as follows:
 | • Effective and interesting use of the chosen API | 10 points|
 | • Useful or entertaining presentation of data delivered by the API | 15 points |
 | • Formation of API requests based on user input | 10 points |
+| • More functionality than APIdex | deduction only (if not done) |
 | Implementation specifications | 55 points total |
 | • Model objects | 8 points |
 | • Asynchronous API functions | 10 points |
