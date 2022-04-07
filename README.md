@@ -5,5 +5,5 @@ This repository hosts a public copy of the assignment write-ups for this course 
 
 - [Assignment 0210](./standalone.md) Standalone mobile app
 - [Assignment 0310](./generic-api-backed.md) Generic API-backed mobile app
-- [Assignment 0405](./firebase-backed.md) <kbd> extended to 0411 </kbd> Firebase-backed mobile app
-- **Assignment 0505** Your own mobile app
+- [Assignment 0405](./firebase-backed.md) <kbd>extended to 0411</kbd> Firebase-backed mobile app
+- [Assignment 0505](./your-own.md) Your own mobile app
