@@ -83,34 +83,45 @@ For this particular assignment, graded categories are as follows:
 
 | Category | Points |
 | -------- | -----: |
-| _ideation.md_ | |
-| • Contains all requested information | |
-| • Content-complete by designated date | |
-| _pitch.md_ | |
-| • Developed and workshopped in class | |
-| • Contains all requested information | |
-| • Content-complete by designated date | |
-| • Delivered successfully in class | |
-| _about.md_ | |
-| • Contains all requested information | |
-| • Presented successfully in class | |
-| Baseline functionality | |
-| • Third-party web service API | |
-| • Authentication | |
-| • Database | |
-| Implementation specifications | |
-| • Model objects | |
-| • Interaction with back-ends | |
-| • Abstraction of back-end functionality | |
-| • Feedback for operations-in-progress | |
-| • Error handling and messaging | |
-| • Layout and composition | |
-| • Colors and other visuals | |
-| • Proper choice of input views and controls | |
-| • Well-chosen animations or transitions | |
-| • Well-chosen programmed graphics | |
-| • Custom app icon | |
+| _ideation.md_ | 30 points total |
+| • Audiences | 5 points |
+| • Ten (10) needs | 10 points |
+| • Three (3) projects | 6 points |
+| • Three (3) sets of goals/ideas | 6 points |
+| • Project choice | 3 points |
+| • Content-complete by designated date | deduction only (if not fulfilled) |
+| _pitch.md_ | 30 points total |
+| • Developed and workshopped in class | deduction only (if not fulfilled) |
+| • Inspiration statement | 4 points |
+| • 2–3 possible solutions | 10 points |
+| • Chosen fleshed-out idea | 12 points |
+| • Human story | 4 points |
+| • Content-complete by designated date | deduction only (if not fulfilled) |
+| • Delivered successfully in class | deduction only (if not done) |
+| _about.md_ | 50 points total |
+| • Project title | 2 points |
+| • Team names and roles | 12 points |
+| • Audience and their needs | 10 points |
+| • App screenshots/video/demo | 14 points |
+| • Technology highlights | 12 points |
 | • Credits where appropriate | deduction only (if not done) |
+| • Presented successfully in class | deduction only (if not done) |
+| Baseline functionality | 60 points total |
+| • Third-party web service API | 25 points |
+| • Authentication | 10 points |
+| • Database | 25 points |
+| Implementation specifications | 80 points total |
+| • Model objects | 8 points |
+| • Interaction with back-ends | 12 points |
+| • Abstraction of back-end functionality | 12 points |
+| • Feedback for operations-in-progress | 7 points |
+| • Error handling and messaging | 7 points |
+| • Layout and composition | 7 points |
+| • Colors and other visuals | 7 points |
+| • Proper choice of input views and controls | 7 points |
+| • Well-chosen animations or transitions | 5 points |
+| • Well-chosen programmed graphics | 5 points |
+| • Custom app icon | 3 points |
 | Hard-to-maintain or error-prone code | deduction only |
 | Hard-to-read code | deduction only |
 | Version control | deduction only |
