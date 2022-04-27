@@ -22,7 +22,7 @@ In addition, we will have you follow a [specific process](https://cs.lmu.edu/~ra
 - Submit an _ideation.md_ file that records the results of your team’s _preliminary ideation_ process
 - On the second-to-last week before finals, you will participate in _ideation exercises_ to crystallize your idea (it’s OK to already be at work on your idea by this time—the exercise is more about refining the way you express your idea)—record the results of these exercise with a _pitch.md_ file
 - On the last week before finals, teams will share an elevator pitch with the class (three minutes max)—note how the results of the preceding exercises serve to inform this pitch. The delivered pitch itself doesn’t have to be slavishly identical to what’s in _pitch.md_ because of course, verbal delivery may change your exact word choices and emphases
-- On the due date, during the final exam slot designated by the registrar for this course, teams will give a final presentation and demo of their respective apps. The content of this presentatioin will be captured in an _about.md_ file
+- On the due date, during the final exam slot designated by the registrar for this course, teams will give a final presentation and demo of their respective apps. The content of this presentation will be captured in an _about.md_ file
 
 Note that the above activities demand attendance due to both the nature of the process and out of respect to your teammates and fellow students. Please plan accordingly.
 
